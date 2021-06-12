@@ -1,37 +1,25 @@
 {
-    "FACEBOOK_INTERSTITIAL":"IMG_16_9_APP_INSTALL#184669246650973_201027278348503p",
-    "FACEBOOK_INTERSTITIALCPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343981971313p",
-    
-	"FACEBOOK_NATIVEBANNER":"IMG_16_9_APP_INSTALL#184669246650973_184669293317635p",
-	"FACEBOOK_NATIVEBANNERCPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343975304647p",
-	"FACEBOOK_NATIVEBANNER1":"IMG_16_9_APP_INSTALL#184669246650973_184669293317635p",
-	"FACEBOOK_NATIVEBANNERCPM1":"IMG_16_9_APP_INSTALL#1450343931971318_1450343975304647p",
-	
-	"FACEBOOK_NATIVE":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
-	"FACEBOOK_NATIVECPM":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
-	"FACEBOOK_NATIVE1":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
-	"FACEBOOK_NATIVECPM1":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
+    "FACEBOOK_INTERSTITIAL":"",
+    "FACEBOOK_INTERSTITIALCPM":"",
+	"FACEBOOK_NATIVEBANNER":"",
+	"FACEBOOK_NATIVEBANNERCPM":"",
+	"FACEBOOK_NATIVE":"",
+	"FACEBOOK_BANNER":"",
+	"FACEBOOK_BANNERCPM":"",
+	"FACEBOOK_NATIVECPM":"",
 
+	"GOOGLE_INTERSTITIAL":"ca-app-pub-3940256099942544/",
+	"GOOGLE_NATIVE":"ca-app-pub-3940256099942544/",
+	"GOOGLE_BANNER":"ca-app-pub-3940256099942544/",
+	"GOOGLE_NATIVEBANNER":"ca-app-pub-3940256099942544/",
 	
-	"FACEBOOK_BANNER":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
-	"FACEBOOK_BANNERCPM":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
-
-	"GOOGLE_INTERSTITIAL":"ca-app-pub-3940256099942544/1033173712",
 	
-	"GOOGLE_NATIVE":"ca-app-pub-3940256099942544/2247696110",
-	"GOOGLE_NATIVE1":"ca-app-pub-3940256099942544/2247696110",
+    "GOOGLE_INTERSTITIALCPM":"ca-app-pub-3110718611954643/6538010422",
+	"GOOGLE_NATIVECPM":"ca-app-pub-3110718611954643/6399243771",
+	"GOOGLE_BANNERCPM":"ca-app-pub-3110718611954643/7712325441",
+	"GOOGLE_NATIVEBANNERCPM":"ca-app-pub-3110718611954643/6399243771",
 	
-	"GOOGLE_NATIVEBANNER":"ca-app-pub-3940256099942544/2247696110",
-	"GOOGLE_NATIVEBANNER1":"ca-app-pub-3940256099942544/2247696110",
 	
-	"GOOGLE_BANNER":"ca-app-pub-3940256099942544/6300978111",
-	
-	"GOOGLE_INTERSTITIALCPM":"ca-app-pub-3940256099942544/1033173712p",
-	"GOOGLE_NATIVECPM":"ca-app-pub-3940256099942544/2247696110p",
-	"GOOGLE_BANNERCPM":"ca-app-pub-3940256099942544/6300978111p",
-	"GOOGLE_NATIVEBANNERCPM":"ca-app-pub-3940256099942544/2247696110p",
-	
-
 
 	
 	
@@ -39,77 +27,74 @@
 	"BG_IMG":"https://i.pinimg.com/originals/c9/2e/2e/c92e2ed14a7db606f2e50cee907ece5a.jpg",
 
 
-	"INTER_INTERVAL":1,
-
-"BVISIBLE":"true",
-"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.TOTOPLAY.totoplaypanishx&hl=en&gl=ec",
+	"INTER_INTERVAL":2,
 
 
-    "NATIVESWITCHBANNER":"true",
+
+
+    "NATIVESWITCHBANNER":"false",
     "RUN":"true",
     
     "MAINADS":"true",
 
-    "FACEBOOKADSFIRST":"false",
+    "FACEBOOKADSFIRST":"true",
   
 
 	
 
-	"IMAGEMAIN":"https://play-lh.googleusercontent.com/Hb3yKJS1qWBwbEO9mdMan8oLf4LaEe-3AU1zLZWE0CyDDLEWUsrDzM4w6qkpL_nJd9If=w1440-h767-rw",
-	"MAINLINK":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5303702/",
+	"IMAGEMAIN":"https://www.goodnet.org/photos/620x0/32701_hd.jpg",
+	"MAINLINK":"https://www.webmd.com/sex-relationships/features/10-secrets-to-better-love-life",
 	
     
     
     
     
-    "MAINHEIGHT":500,
+    "MAINHEIGHT":400,
 	"MAINWIDTH":0,
 	
-	"GRIDHEIGHT":500,
+	"GRIDHEIGHT":400,
 	"GRIDWIDTH":0,
 
     "Main":[
 					
 					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
-						"link"   :"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5303702/",
+						"picture":"https://miro.medium.com/max/1000/0*yB48G8kJoXt9Autc.",
+						"link"   :"https://www.healthline.com/health/healthy-sex/improve-sex-life-couples",
+						"name"   :"8 Tips for Couples",
 						"type":"false"
 					},
 					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
-						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
+						"picture":"https://www.helpguide.org/wp-content/uploads/romantic-couple-768.jpg",
+						"link"   :"https://www.helpguide.org/harvard/tips-to-improve-your-sex-life.htm",
+						"name"   :"Improve Your Sexual Life",
 						"type":"false"
 					},
 					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
-						"link"   :"afVnQoR4XsE",
-						"type":"true"
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
-						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
+						"picture":"https://www.helpguide.org/wp-content/uploads/young-woman-hugging-partner-from-behind-768.jpg",
+						"link"   :"https://www.helpguide.org/articles/relationships-communication/relationship-help.htm",
+						"name"   :"Healthy Relationship",
 						"type":"false"
 					},
 					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
-						"link"   :"afVnQoR4XsE",
-						"type":"true"
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
-						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
+						"picture":"https://www.helpguide.org/wp-content/uploads/man-holding-laughing-woman-768.jpg",
+						"link"   :"https://www.helpguide.org/articles/relationships-communication/managing-conflicts-with-humor.htm",
+						"name"   :"Managing Conflict with Humor",
 						"type":"false"
 					},
 					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
-						"link"   :"afVnQoR4XsE",
-						"type":"true"
+						"picture":"https://www.helpguide.org/wp-content/uploads/young-woman-dancing-with-young-man-smiling-768.jpg",
+						"link"   :"https://www.helpguide.org/articles/healthy-living/what-are-the-best-exercises-for-me.htm",
+						"name"   :"Health and Weight Loss",
+						"type":"false"
 					},
 					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
-						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
+						"picture":"https://www.helpguide.org/wp-content/uploads/older-woman-man-playful-eating-768.jpg",
+						"link"   :"https://www.helpguide.org/articles/alzheimers-dementia-aging/better-sex-as-you-age.htm",
+						"name"   :"Sexual life as You Age",
 						"type":"false"
 					}
+					
+					
 	],
 
 	
@@ -120,40 +105,31 @@
 	
 
 	
-	"VIDEOHEIGHT":500,
+	"VIDEOHEIGHT":400,
 	"VIDEOWIDTH":0,
 	"videos":[
 					
 					{
-						"picture":"https://image.winudf.com/v2/image1/Y29tLmZyZWVmaXJlLmRpYW1vbmRzLmd1aWRlLnRyaWNrc19zY3JlZW5fMV8xNTc0MTcyMDU1XzAwMA/screen-1.jpg?fakeurl=1&type=.jpg",
-						"link":"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick"
+						"picture":"https://i.ytimg.com/vi/cUIYZ_SZykk/maxresdefault.jpg",
+						"link":"VLRi2nSzc8I",
+						"name":"apyar story part 1"
 					},
 					{
-						"picture":"https://image.winudf.com/v2/image1/Y29tLmZyZWVmaXJlLmRpYW1vbmRzLmd1aWRlLnRyaWNrc19zY3JlZW5fMV8xNTc0MTcyMDU1XzAwMA/screen-1.jpg?fakeurl=1&type=.jpg",
-						"link":"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick"
+						"picture":"https://i.ytimg.com/vi/FaM0ihCo3ns/sddefault.jpg",
+						"link":"cUIYZ_SZykk",
+						"name":"apyar story part 2"
 					},
 					{
-						"picture":"https://image.winudf.com/v2/image1/Y29tLmZyZWVmaXJlLmRpYW1vbmRzLmd1aWRlLnRyaWNrc19zY3JlZW5fMV8xNTc0MTcyMDU1XzAwMA/screen-1.jpg?fakeurl=1&type=.jpg",
-						"link":"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick"
+						"picture":"https://i.ytimg.com/vi/Pbxd5VvIvDQ/maxresdefault.jpg",
+						"link":"_iKSSkKjOxk",
+						"name":"apyar story part 3"
 					},
 					{
-						"picture":"https://image.winudf.com/v2/image1/Y29tLmZyZWVmaXJlLmRpYW1vbmRzLmd1aWRlLnRyaWNrc19zY3JlZW5fMV8xNTc0MTcyMDU1XzAwMA/screen-1.jpg?fakeurl=1&type=.jpg",
-						"link":"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick"
-					},
-					{
-						"picture":"https://image.winudf.com/v2/image1/Y29tLmZyZWVmaXJlLmRpYW1vbmRzLmd1aWRlLnRyaWNrc19zY3JlZW5fMV8xNTc0MTcyMDU1XzAwMA/screen-1.jpg?fakeurl=1&type=.jpg",
-						"link":"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick"
-					},
-					{
-						"picture":"https://image.winudf.com/v2/image1/Y29tLmZyZWVmaXJlLmRpYW1vbmRzLmd1aWRlLnRyaWNrc19zY3JlZW5fMV8xNTc0MTcyMDU1XzAwMA/screen-1.jpg?fakeurl=1&type=.jpg",
-						"link":"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick"
+						"picture":"https://i.ytimg.com/vi/HiGcUTLyZ8Y/sddefault.jpg",
+						"link":"Pbxd5VvIvDQ",
+						"name":"apyar story part 4"
 					}
+					
 					
 					
 	],
@@ -162,67 +138,37 @@
 
 	
 	"moreappsgrid":[
-					{
-						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
-						"name":"Nicknames for games",
-						"type":"install"
+	    {
+						"picture":"https://gyazo.com/1a1039f9e67b5756eb1cd6b1ced6f10a.png",
+						"link":"https://smrturl.co/o/190567/244423?s1=",
+						"name":"Can you guess the price of these items?",
+						"type":"open"
 					},
 					{
-						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
-						"name":"Nicknames for games",
-						"type":"install"
+						"picture":"https://i.gyazo.com/be5960e208264aa2976fa0ea2ff175db.png",
+						"link":"https://smrturl.co/o/190567/53195622?s1=",
+						"name":"Win a brand new Xbox Series X now!",
+						"type":"open"
 					},
 					{
-						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
-						"name":"Nicknames for games",
-						"type":"install"
+						"picture":"https://i.gyazo.com/6f4b58c2d1d7ac32a379b6faa2766017.png",
+						"link":"https://smrturl.co/o/190567/53191429?s1=",
+						"name":"Send SMS Now to Win a New Win PS5!",
+						"type":"open"
 					},
 					{
-						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
-						"name":"Nicknames for games",
-						"type":"install"
+						"picture":"https://i.gyazo.com/326ef3da1729b78f81d8e83e717938b9.png",
+						"link":"https://smrturl.co/o/190567/53202379?s1=",
+						"name":"Register Your Details and Win $1000 Cash Prize!",
+						"type":"open"
 					},
 					{
-						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
-						"name":"Nicknames for games",
-						"type":"install"
-					},
-					{
-						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
-						"name":"Nicknames for games",
-						"type":"install"
-					},
-					{
-						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
-						"name":"Nicknames for games",
-						"type":"install"
-					},
-					{
-						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
-						"name":"Nicknames for games",
-						"type":"install"
-					},
-					{
-						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
-						"name":"Nicknames for games",
-						"type":"install"
-					},
-					{
-						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
-						"name":"Nicknames for games",
-						"type":"install"
+						"picture":"https://gyazo.com/6d9e903dc8c82ef5b6a54bf46079676d.png",
+						"link":"https://smrturl.co/o/190567/53192385?s1=",
+						"name":"WIN $250! McDonalds vs Burger King",
+						"type":"open"
 					}
-			
+				   
 					
 					
 				
